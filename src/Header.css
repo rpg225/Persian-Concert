@@ -1,0 +1,8 @@
+header {
+  padding: 10px 0;
+  transition: all 300ms ease-in;
+}
+
+header .header_logo {
+  flex-grow: 1;
+}
